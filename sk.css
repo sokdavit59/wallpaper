@@ -1,0 +1,107 @@
+.head{
+    font-family: AKbalthom Superhero;
+    position: relative;
+    left: 50px;
+}
+.ipone{
+    background-color: #D7DBDD;
+     height: 40px;
+     position: relative;
+     left: 10px;
+}
+.ip{
+    position: relative;
+    bottom: 50px;
+    left: 100px;
+}
+.ad{
+    position: relative;
+    bottom: 98px;
+    left: 270px;
+}
+.ai{
+    position: relative;
+ bottom: 144px;
+ left: 470px;
+}
+.p1{
+    width: 1400px;
+    position: relative;
+    bottom: 150px;
+}
+.paragrab{
+    position: relative;
+    bottom: 1000;
+}
+@media only screen and(mix-width:600px;){
+
+.head{
+    font-family: AKbalthom Superhero;
+    position: relative;
+    left: 50px;
+}
+.ipone{
+    background-color: #D7DBDD;
+     width:550px;height: 40px;
+     position: relative;
+     left: 1px;
+}
+.ip{
+    position: relative;
+    bottom: 50px;
+    left: 50px;
+}
+.ad{
+    position: relative;
+    bottom: 98px;
+    left: 190px;
+}
+.ai{
+    position: relative;
+ bottom: 144px;
+ left: 360px;
+}
+.p1{
+    width: 550px;
+    position: relative;
+    bottom: 150px;
+}
+.paragrab{
+    position: relative;
+    bottom: 500px;
+    font-family: AKbalthom Superhero;
+}
+}
+@media only screen and(mix-width:600px;){
+.wr{
+    font-family: AKbalthom Superhero; 
+}
+.gb{
+    background-color: #85C1E9;
+    color:#85C1E9;
+    position: relative;
+    left: 1px;
+}
+.im1{
+    width: 290px;
+
+}
+.im2{
+    width: 290px;
+    position: relative;
+    left: 300px;
+    bottom: 520px;
+}
+.im4{
+    width: 290px;
+    position: relative;
+    bottom: 1150px;
+}
+.im3{
+    
+    width: 290px;
+    position: relative;
+    left: 300px;
+    bottom: 520px;
+}
+}
